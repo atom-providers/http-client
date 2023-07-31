@@ -1,7 +1,7 @@
 package httpClient
 
 import (
-	"github.com/rogeecn/atom-addons/providers/http"
+	"github.com/atom-providers/http"
 	"github.com/rogeecn/atom/container"
 	"github.com/rogeecn/atom/utils/opt"
 )
