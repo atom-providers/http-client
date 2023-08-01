@@ -6,7 +6,7 @@ require (
 	github.com/imroc/req/v3 v3.37.0
 	github.com/juju/go4 v0.0.0-20160222163258-40d72ab9641a
 	github.com/pkg/errors v0.9.1
-	github.com/rogeecn/atom v1.0.4
+	github.com/rogeecn/atom v1.0.6
 	golang.org/x/net v0.12.0
 	gopkg.in/retry.v1 v1.0.3
 )
